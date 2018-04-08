@@ -21,4 +21,4 @@ title = title_tag.string
 #print (title_tag)
 
 # タイトルを文字列を出力
-print (title)
+print ("株:" + title)
